@@ -1,0 +1,1 @@
+The purpose of this svn repository is to help [me](http://en.wikipedia.org/wiki/User:Oleg_Alexandrov) maintain the scripts used by [mathbot](http://en.wikipedia.org/wiki/User:Mathbot). More information can be found in the 'Readme.txt' file in the 'trunk' directory (see the 'Source' tab above).
